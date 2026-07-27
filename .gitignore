@@ -1,0 +1,8 @@
+# 代理/智能体技能相关
+.vscode/
+.agents/
+.claude/
+.gemini/
+.github/
+.reasonix/
+.codegraph/
