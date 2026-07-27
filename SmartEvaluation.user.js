@@ -2,7 +2,7 @@
 // @name         智能教评助手
 // @name:en      SmartEvaluation
 // @namespace    github.com/Lulozi
-// @version      1.0.0
+// @version      1.0.1
 // @description  为正方教务系统评教页面提供智能评教功能：全选不同评级、自定义总分组合、自动跳转下一未评教师。
 // @description:en  Smart evaluation assistant for Zhengfang educational system: batch rating, custom score combination, auto-navigate to next unevaluated teacher.
 // @author       Lulo
@@ -14,10 +14,8 @@
 // @match        *://oaa.fitedu.net/jwglxt/xspjgl/*
 // @match        *://*/jwglxt/xspjgl/*
 // @include      *://*/jwglxt/xspjgl/xspj_cxXspjIndex.html*
-// @require      https://unpkg.com/sweetalert2@11.4.8/dist/sweetalert2.min.js
 // @grant        none
 // @run-at       document-end
-// @inject-into page
 // @compatible   Chrome
 // @compatible   Edge
 // @license      MIT
