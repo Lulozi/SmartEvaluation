@@ -6,3 +6,7 @@
 .github/
 .reasonix/
 .codegraph/
+
+!.github/
+!.github/workflows/
+!.github/workflows/*
