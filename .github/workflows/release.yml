@@ -23,5 +23,4 @@ jobs:
           prerelease: false
           # 自动根据 commit 生成更新日志
           generate_release_notes: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
