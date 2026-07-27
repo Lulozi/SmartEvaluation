@@ -1,6 +1,6 @@
 # SmartEvaluation — 智能教评助手
 
-<p align="center"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%232da3e6'/%3E%3Ctext x='32' y='44' font-family='Arial, sans-serif' font-size='32' font-weight='bold' fill='white' text-anchor='middle'%3EA%2B%3C/text%3E%3C/svg%3E" width="64" height="64" alt="A+" /></p>
+<p align="center"><img src="A+.svg" width="64" height="64" alt="A+" /></p>
 
 ## 安装
 
