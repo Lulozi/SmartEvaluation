@@ -1,4 +1,4 @@
-# <img src="A+.svg" width="28" height="28" alt="A+" /> SmartEvaluation — 智能教评助手
+# <img src="A+.svg" width="42" height="42" alt="A+" /> SmartEvaluation — 智能教评助手
 
 正方教务系统 v9.0 智能评教插件，支持一键/批量评教，兼容 Tampermonkey 和 ScriptCat。
 
