@@ -1,0 +1,27 @@
+name: 智能教评助手 - 自动发布
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取你仓库里的代码到 GitHub 的虚拟服务器上
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 创建 Release 并上传附件
+        uses: softprops/action-gh-release@v1
+        with:
+          files: SmartEvaluation.user.js
+          # 是否为草稿（false代表直接发布正式版）
+          draft: false
+          # 是否为预发布版本
+          prerelease: false
+          # 自动根据 commit 生成更新日志
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
