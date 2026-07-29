@@ -9,6 +9,7 @@
 3. **安装脚本** — 任选以下渠道之一：
    * GitHub：[https://github.com/Lulozi/SmartEvaluation](https://github.com/Lulozi/SmartEvaluation)
    * 脚本猫：[https://scriptcat.org/zh-CN/script-show-page/7196](https://scriptcat.org/zh-CN/script-show-page/7196)
+   * Greasy Fork：[https://greasyfork.org/zh-CN/scripts/588832-%E6%99%BA%E8%83%BD%E6%95%99%E8%AF%84%E5%8A%A9%E6%89%8B](https://greasyfork.org/zh-CN/scripts/588832-%E6%99%BA%E8%83%BD%E6%95%99%E8%AF%84%E5%8A%A9%E6%89%8B)
 4. **刷新页面** — 刷新正方教务系统评教页面，插件即自动生效。
 
 ## 使用
